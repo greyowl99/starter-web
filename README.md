@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 On any web server or local file system
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for Review
+
 ### Copyright
 
 2014 Git.Training
